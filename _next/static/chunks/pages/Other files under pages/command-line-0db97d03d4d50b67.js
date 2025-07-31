@@ -1,0 +1,47 @@
+(self.webpackChunk_N_E = self.webpackChunk_N_E || []).push([[1166], {
+    19797: function(n, e, i) {
+        (window.__NEXT_P = window.__NEXT_P || []).push(["/command-line", function() {
+            return i(14577)
+        }
+        ])
+    },
+    14577: function(n, e, i) {
+        "use strict";
+        i.r(e),
+        i.d(e, {
+            __N_SSG: function() {
+                return c
+            }
+        });
+        var r = i(85893)
+          , t = i(71706)
+          , u = i(86961)
+          , s = i(27936)
+          , o = i(19546)
+          , c = !0;
+        e.default = function(n) {
+            let {metatags: e} = n;
+            return (0,
+            r.jsxs)(r.Fragment, {
+                children: [(0,
+                r.jsx)(t.Z, {}), (0,
+                r.jsx)(s.Z, {
+                    h1: "Learn Command Line",
+                    description: e.description
+                }), (0,
+                r.jsx)(o.Z, {
+                    internalCourseName: "command-line"
+                }), (0,
+                r.jsx)(u.Z, {
+                    disableMarginTop: !0
+                })]
+            })
+        }
+    }
+}, function(n) {
+    n.O(0, [1706, 6961, 9983, 9774, 2888, 179], function() {
+        return n(n.s = 19797)
+    }),
+    _N_E = n.O()
+}
+]);
